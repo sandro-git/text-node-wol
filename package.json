@@ -1,0 +1,9 @@
+{
+  "name": "text-node-wol",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "wake_on_lan": "^1.0.0"
+  }
+}
